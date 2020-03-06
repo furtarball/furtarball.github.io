@@ -20,4 +20,8 @@ body { font-family: 'Inter', sans-serif; }
     @include small {
       padding: 2rem 1rem;
     }
-}
+  }
+
+h1, h2, h3, h4, h5, h6 {
+    color: #a92020;
+  }
