@@ -24,6 +24,14 @@ Daft half-baked IT fox.
 |stinky|no|yes|yes|yes|
 |ugly|no|no|no|no|
 
+| X | foxxos | wolffos |
+|:--------|:-------:|--------:|
+| cute   | yes   | yes   |
+| stinky   | no   | yes   |
+|----
+| ugly   | no   | no   |
+| good   | yes   | yes   |
+
 ## Code
 Ruby:
 ~~~~ ruby
@@ -38,9 +46,10 @@ cout << hello;
 ~~~~
 
 Bash:
-~~~~ sh
+~~~~ bash
 HELLO="Hello world!"
 echo $HELLO
+~~~~
 
 ## Picture
 ![fox](https://images.unsplash.com/photo-1563551937069-caa966ba3aa8?ixlib=rb-1.2.1&w=700)
