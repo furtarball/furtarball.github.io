@@ -16,14 +16,13 @@ Daft half-baked IT fox.
 2. 🦊 (fox)
 2. 😒 (ok)
 2. 😍 (me when i see new gummibear album)
-
 ### Honourable mentions
  🍆 ꙮ
 
 ## Table
 
 |   | foxxos | wolffos | doggos |
-|:--------|:-------:|:-------:|--------:|
+|:--------|:-------:|:-------:|:--------:|
 | cute   | yes   | yes   | yes |
 | stinky   | no   | yes   | yes |
 |----
@@ -31,10 +30,10 @@ Daft half-baked IT fox.
 | good   | yes   | yes   | very yes|
 | scream | yes | no | sometimes |
 
-## Code
+## Coding with bradwr
 Ruby:
 ~~~~ ruby
-hello = 'Hello world!'
+hello = "Hello world!"
 puts hello
 ~~~~
 
@@ -50,6 +49,13 @@ HELLO="Hello world!"
 echo $HELLO
 ~~~~
 
+Python (very much inferior to ruby):
+~~~~ python
+hello = "Hello world!"
+puts(hello)
+~~~~
+
 ## Picture
 ![fox](https://images.unsplash.com/photo-1563551937069-caa966ba3aa8?ixlib=rb-1.2.1&w=700)
+
 *Photo by Lachlan Gowen on Unsplash*
