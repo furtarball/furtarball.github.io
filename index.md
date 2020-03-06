@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Hello world!
+# Eĥoŝanĝo ĉiuĵaŭde!
 
 ## About me
 Daft half-baked IT fox.
@@ -15,22 +15,18 @@ Daft half-baked IT fox.
 2. 🤷🏿‍♀️ (bitch idk)
 2. 🦊 (fox)
 2. 😒 (ok)
-2. 😍 (me when i see something nice)
+2. 😍 (me when i see new gummibear album)
 
 ## Table
-| X | foxes | wolves | coyotes | doggos |
-|-|-|-|-|-|
-|cute|yes|yes|yes|yes|
-|stinky|no|yes|yes|yes|
-|ugly|no|no|no|no|
 
-| X | foxxos | wolffos |
-|:--------|:-------:|--------:|
-| cute   | yes   | yes   |
-| stinky   | no   | yes   |
+| X | foxxos | wolffos | doggos |
+|:--------|:-------:|:-------:|--------:|
+| cute   | yes   | yes   | yes |
+| stinky   | no   | yes   | yes |
 |----
-| ugly   | no   | no   |
-| good   | yes   | yes   |
+| ugly   | no   | no   | no |
+| good   | yes   | yes   | very yes|
+| scream | yes | no | sometimes |
 
 ## Code
 Ruby:
