@@ -17,9 +17,12 @@ Daft half-baked IT fox.
 2. 😒 (ok)
 2. 😍 (me when i see new gummibear album)
 
+### Honourable mentions
+ 🍆 ꙮ
+
 ## Table
 
-| X | foxxos | wolffos | doggos |
+|   | foxxos | wolffos | doggos |
 |:--------|:-------:|:-------:|--------:|
 | cute   | yes   | yes   | yes |
 | stinky   | no   | yes   | yes |
