@@ -8,10 +8,14 @@ layout: default
 # Hello world!
 
 ## About me
-Fox.
+Daft half-baked IT fox.
 
-## Picture
-![fox](https://images.unsplash.com/photo-1563551937069-caa966ba3aa8)
+## My fave emojis
+1. 🏳️‍🌈
+2. 🤷🏿‍♀️
+2. 🦊
+2. 😒
+2. 😍
 
 ## Code
 Ruby:
@@ -25,3 +29,12 @@ C++:
 string hello = "Hello world!";
 cout << hello;
 ~~~~
+
+Bash:
+~~~~ bash
+HELLO="Hello world!"
+echo $HELLO
+
+## Picture
+![fox](https://images.unsplash.com/photo-1563551937069-caa966ba3aa8)
+Photo by Lachlan Gowen on Unsplash
