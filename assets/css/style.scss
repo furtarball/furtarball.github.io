@@ -9,6 +9,7 @@ body { font-family: 'Inter', sans-serif; }
 
 .page-header {
   background-image: url("../red.png"); background-size: cover;
+  background-color: #a92020;
     @include large {
       padding: 11rem 6rem;
     }
