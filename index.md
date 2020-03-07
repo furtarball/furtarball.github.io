@@ -8,7 +8,7 @@ layout: default
 # Eĥoŝanĝo ĉiuĵaŭde!
 
 ## About me
-Daft half-baked IT fox.
+Daft half-baked IT fox. Currently serving http://bradwr.libre (soon http://bradwr.o) and http://foxscrap.libre, hosted at infinityfree.net.
 
 ## My fave emojis
 1. 🏳️‍🌈 (gay)
