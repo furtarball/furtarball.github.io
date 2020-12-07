@@ -6,31 +6,14 @@ layout: default
 ---
 
 # Eĥoŝanĝo ĉiuĵaŭde!
+## List
+1. 🌺
+1. 👁👄👁
+1. abcdefgh
+1. lorem ipsum
 
-## About me
-Daft half-baked IT fox. Currently serving http://bradwr.libre (soon http://bradwr.o) and http://foxscrap.libre, hosted at infinityfree.net.
 
-## My fave emojis
-1. 🏳️‍🌈 (gay)
-2. 🤷🏿‍♀️ (bitch idk)
-2. 🦊 (fox)
-2. 😒 (ok)
-2. 😍 (me when i see new gummibear album)
-### Honourable mentions
- 🍆 ꙮ
-
-## Table
-
-|   | foxxos | wolffos | doggos |
-|:--------|:-------:|:-------:|:--------:|
-| cute   | yes   | yes   | yes |
-| stinky   | no   | yes   | yes |
-|----
-| ugly   | no   | no   | no |
-| good   | yes   | yes   | very yes|
-| scream | yes | no | sometimes |
-
-## Coding with bradwr
+## Code
 Ruby:
 ~~~~ ruby
 hello = "Hello world!"
@@ -49,7 +32,7 @@ HELLO="Hello world!"
 echo $HELLO
 ~~~~
 
-Python (very much inferior to ruby):
+Python:
 ~~~~ python
 hello = "Hello world!"
 puts(hello)
