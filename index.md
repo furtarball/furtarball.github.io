@@ -6,6 +6,9 @@ layout: default
 ---
 
 # Eĥoŝanĝo ĉiuĵaŭde!
+
+[wv-settags](wv-settags)
+
 ## List
 1. 🌺
 1. 👁👄👁
